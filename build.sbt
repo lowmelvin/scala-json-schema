@@ -36,7 +36,7 @@ lazy val root = project
     name := "scala-json-schema",
     libraryDependencies ++= Seq(
       "io.circe"      %% "circe-core" % CirceVersion,
-      "org.scalameta" %% "munit"      % "1.0.3" % Test
+      "org.scalameta" %% "munit"      % "1.0.4" % Test
     ),
     scalacOptions ++= Seq(
       "-encoding",
