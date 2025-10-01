@@ -1,5 +1,5 @@
 val scala3Version = "3.3.3"
-val CirceVersion  = "0.14.10"
+val CirceVersion  = "0.14.15"
 
 ThisBuild / scalaVersion := scala3Version
 
